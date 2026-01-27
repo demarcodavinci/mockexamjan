@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="29.3.4">
   <diagram name="Page-1" id="ZyLBR1j8iFQF_L-0kkl2">
-    <mxGraphModel dx="1501" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -657,7 +657,7 @@
         <mxCell id="OUGQmN4H3J9Yc-BCNt0C-117" edge="1" parent="1" source="OUGQmN4H3J9Yc-BCNt0C-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="OUGQmN4H3J9Yc-BCNt0C-124">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OUGQmN4H3J9Yc-BCNt0C-118" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="Does room already exist?" vertex="1">
+        <mxCell id="OUGQmN4H3J9Yc-BCNt0C-118" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="Is the room taken?" vertex="1">
           <mxGeometry height="80" width="170" x="4620" y="710" as="geometry" />
         </mxCell>
         <mxCell id="OUGQmN4H3J9Yc-BCNt0C-119" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="True" vertex="1">
@@ -673,7 +673,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="OUGQmN4H3J9Yc-BCNt0C-122" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="Does the room exist?" vertex="1">
+        <mxCell id="OUGQmN4H3J9Yc-BCNt0C-122" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="Does the booking exist?" vertex="1">
           <mxGeometry height="80" width="180" x="4615" y="910" as="geometry" />
         </mxCell>
         <mxCell id="OUGQmN4H3J9Yc-BCNt0C-123" edge="1" parent="1" source="OUGQmN4H3J9Yc-BCNt0C-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="OUGQmN4H3J9Yc-BCNt0C-122">

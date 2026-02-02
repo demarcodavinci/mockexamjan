@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "H:\\GitHub\\mockexamjan\\Task 2\\mockexam\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{49E70392-1163-4676-A5E4-769A3E902FF4}|mockexam\\mockexam.csproj|h:\\github\\mockexamjan\\task 2\\mockexam\\mockexam\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49E70392-1163-4676-A5E4-769A3E902FF4}|mockexam\\mockexam.csproj|solutionrelative:mockexam\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49E70392-1163-4676-A5E4-769A3E902FF4}|mockexam\\mockexam.csproj|h:\\github\\mockexamjan\\task 2\\mockexam\\mockexam\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49E70392-1163-4676-A5E4-769A3E902FF4}|mockexam\\mockexam.csproj|solutionrelative:mockexam\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{49E70392-1163-4676-A5E4-769A3E902FF4}|mockexam\\mockexam.csproj|h:\\github\\mockexamjan\\task 2\\mockexam\\mockexam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{49E70392-1163-4676-A5E4-769A3E902FF4}|mockexam\\mockexam.csproj|solutionrelative:mockexam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -19,10 +27,6 @@
       "RelativeMoniker": "D:0:0:{49E70392-1163-4676-A5E4-769A3E902FF4}|mockexam\\mockexam.csproj|solutionrelative:mockexam\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{49E70392-1163-4676-A5E4-769A3E902FF4}|mockexam\\mockexam.csproj|h:\\github\\mockexamjan\\task 2\\mockexam\\mockexam\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{49E70392-1163-4676-A5E4-769A3E902FF4}|mockexam\\mockexam.csproj|solutionrelative:mockexam\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{49E70392-1163-4676-A5E4-769A3E902FF4}|mockexam\\mockexam.csproj|h:\\github\\mockexamjan\\task 2\\mockexam\\mockexam\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{49E70392-1163-4676-A5E4-769A3E902FF4}|mockexam\\mockexam.csproj|solutionrelative:mockexam\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -36,10 +40,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{49E70392-1163-4676-A5E4-769A3E902FF4}|mockexam\\mockexam.csproj|h:\\github\\mockexamjan\\task 2\\mockexam\\mockexam\\data\\migrations\\20260202141927_seeddata2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{49E70392-1163-4676-A5E4-769A3E902FF4}|mockexam\\mockexam.csproj|solutionrelative:mockexam\\data\\migrations\\20260202141927_seeddata2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{49E70392-1163-4676-A5E4-769A3E902FF4}|mockexam\\mockexam.csproj|h:\\github\\mockexamjan\\task 2\\mockexam\\mockexam\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{49E70392-1163-4676-A5E4-769A3E902FF4}|mockexam\\mockexam.csproj|solutionrelative:mockexam\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{49E70392-1163-4676-A5E4-769A3E902FF4}|mockexam\\mockexam.csproj|h:\\github\\mockexamjan\\task 2\\mockexam\\mockexam\\models\\rooms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -73,17 +73,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "SeedData.cs",
               "DocumentMoniker": "H:\\GitHub\\mockexamjan\\Task 2\\mockexam\\mockexam\\Data\\SeedData.cs",
               "RelativeDocumentMoniker": "mockexam\\Data\\SeedData.cs",
               "ToolTip": "H:\\GitHub\\mockexamjan\\Task 2\\mockexam\\mockexam\\Data\\SeedData.cs",
               "RelativeToolTip": "mockexam\\Data\\SeedData.cs",
-              "ViewState": "AgIAAFEAAAAAAAAAAAAawG4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwG4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-02T13:37:43.435Z",
               "EditorCaption": ""
@@ -102,7 +102,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "H:\\GitHub\\mockexamjan\\Task 2\\mockexam\\mockexam\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "mockexam\\Data\\ApplicationDbContext.cs",
@@ -110,7 +110,8 @@
               "RelativeToolTip": "mockexam\\Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T13:47:45.085Z"
+              "WhenOpened": "2026-02-02T13:47:45.085Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -126,7 +127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
               "DocumentMoniker": "H:\\GitHub\\mockexamjan\\Task 2\\mockexam\\mockexam\\appsettings.json",
               "RelativeDocumentMoniker": "mockexam\\appsettings.json",
@@ -134,8 +135,7 @@
               "RelativeToolTip": "mockexam\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-02-02T13:32:52.477Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-02T13:32:52.477Z"
             },
             {
               "$type": "Document",
@@ -151,7 +151,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "dbo.Bookings.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_mockexam_699787ca_4bf9_491b_802c_a86fdcfe4136/True/SqlTable/dbo.Bookings.sql",
               "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_mockexam_699787ca_4bf9_491b_802c_a86fdcfe4136/True/SqlTable/dbo.Bookings.sql",
@@ -160,7 +160,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Bookings.cs",
               "DocumentMoniker": "H:\\GitHub\\mockexamjan\\Task 2\\mockexam\\mockexam\\Models\\Bookings.cs",
               "RelativeDocumentMoniker": "mockexam\\Models\\Bookings.cs",
@@ -168,12 +168,11 @@
               "RelativeToolTip": "mockexam\\Models\\Bookings.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T13:09:30.392Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-02T13:09:30.392Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "BookingsController.cs",
               "DocumentMoniker": "H:\\GitHub\\mockexamjan\\Task 2\\mockexam\\mockexam\\Controllers\\BookingsController.cs",
               "RelativeDocumentMoniker": "mockexam\\Controllers\\BookingsController.cs",
@@ -181,25 +180,24 @@
               "RelativeToolTip": "mockexam\\Controllers\\BookingsController.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAcwBUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T13:50:17.243Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-02T13:50:17.243Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "H:\\GitHub\\mockexamjan\\Task 2\\mockexam\\mockexam\\Program.cs",
               "RelativeDocumentMoniker": "mockexam\\Program.cs",
               "ToolTip": "H:\\GitHub\\mockexamjan\\Task 2\\mockexam\\mockexam\\Program.cs",
               "RelativeToolTip": "mockexam\\Program.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-02T13:13:54.397Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "H:\\GitHub\\mockexamjan\\Task 2\\mockexam\\mockexam\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "mockexam\\Views\\Home\\Index.cshtml",
@@ -207,12 +205,11 @@
               "RelativeToolTip": "mockexam\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-02T15:44:03.164Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-02T15:44:03.164Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "20260202134016_initialcreate.cs",
               "DocumentMoniker": "H:\\GitHub\\mockexamjan\\Task 2\\mockexam\\mockexam\\Data\\Migrations\\20260202134016_initialcreate.cs",
               "RelativeDocumentMoniker": "mockexam\\Data\\Migrations\\20260202134016_initialcreate.cs",
@@ -224,7 +221,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "20260202141927_SeedData2.cs",
               "DocumentMoniker": "H:\\GitHub\\mockexamjan\\Task 2\\mockexam\\mockexam\\Data\\Migrations\\20260202141927_SeedData2.cs",
               "RelativeDocumentMoniker": "mockexam\\Data\\Migrations\\20260202141927_SeedData2.cs",

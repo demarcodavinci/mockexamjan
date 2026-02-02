@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\GitHub\\mockexamjan\\Task 2\\mockexam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49E70392-1163-4676-A5E4-769A3E902FF4}|mockexam\\mockexam.csproj|h:\\github\\mockexamjan\\task 2\\mockexam\\mockexam\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49E70392-1163-4676-A5E4-769A3E902FF4}|mockexam\\mockexam.csproj|solutionrelative:mockexam\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49E70392-1163-4676-A5E4-769A3E902FF4}|mockexam\\mockexam.csproj|h:\\github\\mockexamjan\\task 2\\mockexam\\mockexam\\models\\rooms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49E70392-1163-4676-A5E4-769A3E902FF4}|mockexam\\mockexam.csproj|solutionrelative:mockexam\\models\\rooms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49E70392-1163-4676-A5E4-769A3E902FF4}|mockexam\\mockexam.csproj|h:\\github\\mockexamjan\\task 2\\mockexam\\mockexam\\models\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49E70392-1163-4676-A5E4-769A3E902FF4}|mockexam\\mockexam.csproj|solutionrelative:mockexam\\models\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49E70392-1163-4676-A5E4-769A3E902FF4}|mockexam\\mockexam.csproj|h:\\github\\mockexamjan\\task 2\\mockexam\\mockexam\\models\\bookings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49E70392-1163-4676-A5E4-769A3E902FF4}|mockexam\\mockexam.csproj|solutionrelative:mockexam\\models\\bookings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49E70392-1163-4676-A5E4-769A3E902FF4}|mockexam\\mockexam.csproj|h:\\github\\mockexamjan\\task 2\\mockexam\\mockexam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49E70392-1163-4676-A5E4-769A3E902FF4}|mockexam\\mockexam.csproj|solutionrelative:mockexam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Staff.cs",
+              "DocumentMoniker": "H:\\GitHub\\mockexamjan\\Task 2\\mockexam\\mockexam\\Models\\Staff.cs",
+              "RelativeDocumentMoniker": "mockexam\\Models\\Staff.cs",
+              "ToolTip": "H:\\GitHub\\mockexamjan\\Task 2\\mockexam\\mockexam\\Models\\Staff.cs",
+              "RelativeToolTip": "mockexam\\Models\\Staff.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T13:21:15.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Rooms.cs",
+              "DocumentMoniker": "H:\\GitHub\\mockexamjan\\Task 2\\mockexam\\mockexam\\Models\\Rooms.cs",
+              "RelativeDocumentMoniker": "mockexam\\Models\\Rooms.cs",
+              "ToolTip": "H:\\GitHub\\mockexamjan\\Task 2\\mockexam\\mockexam\\Models\\Rooms.cs",
+              "RelativeToolTip": "mockexam\\Models\\Rooms.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T13:16:01.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\GitHub\\mockexamjan\\Task 2\\mockexam\\mockexam\\Program.cs",
+              "RelativeDocumentMoniker": "mockexam\\Program.cs",
+              "ToolTip": "H:\\GitHub\\mockexamjan\\Task 2\\mockexam\\mockexam\\Program.cs",
+              "RelativeToolTip": "mockexam\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T13:13:54.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bookings.cs",
+              "DocumentMoniker": "H:\\GitHub\\mockexamjan\\Task 2\\mockexam\\mockexam\\Models\\Bookings.cs",
+              "RelativeDocumentMoniker": "mockexam\\Models\\Bookings.cs",
+              "ToolTip": "H:\\GitHub\\mockexamjan\\Task 2\\mockexam\\mockexam\\Models\\Bookings.cs",
+              "RelativeToolTip": "mockexam\\Models\\Bookings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T13:09:30.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "H:\\GitHub\\mockexamjan\\Task 2\\mockexam\\mockexam\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "mockexam\\Models\\ErrorViewModel.cs",
+              "ToolTip": "H:\\GitHub\\mockexamjan\\Task 2\\mockexam\\mockexam\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "mockexam\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T13:06:06.666Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -11,20 +11,20 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
 builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 
 builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
-    .AddRoles<IdentityRole>()
+    .AddRoles<IdentityRole>() // add this line when seeding users
     .AddEntityFrameworkStores<ApplicationDbContext>();
 builder.Services.AddControllersWithViews();
 
 builder.Services.AddAuthentication().AddGoogle(options =>
 {
-    options.ClientId = builder.Configuration["Google:ClientId"];
-    options.ClientSecret = builder.Configuration["Google:ClientSecret"];
+    options.ClientId = builder.Configuration["Google:ClientId"]; // google client id
+    options.ClientSecret = builder.Configuration["Google:ClientSecret"]; // google client secret
 });
 
 var app = builder.Build();
 
 //seeddata
-using (var scope = app.Services.CreateScope())
+using (var scope = app.Services.CreateScope()) // seeding the users and rooms
 {
     var services = scope.ServiceProvider;
     var roleManager = services.GetRequiredService<RoleManager<IdentityRole>>();

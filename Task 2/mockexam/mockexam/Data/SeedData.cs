@@ -9,11 +9,11 @@ namespace mockexam.Data
     {
         public static async Task mockexamAsync(ApplicationDbContext context)
         {
-            if (await context.Rooms.AnyAsync() == false)
+            if (await context.Rooms.AnyAsync() == false) // checks for any rooms in table
             {
-                var SeededRooms = new List<Rooms>
+                var SeededRooms = new List<Rooms> // creates a new list for rooms to be seeded
                 {
-                    new Rooms
+                    new Rooms // individual rooms
                     {
                         RoomName = "Room 1",
                         Description = "This room is a newly furnished office space.",
@@ -46,13 +46,13 @@ namespace mockexam.Data
 
                 };
                 await context.Rooms.AddRangeAsync(SeededRooms);
-                await context.SaveChangesAsync();
+                await context.SaveChangesAsync(); // saves changes
             }
 
         }
         public static async Task SeedRoles(IServiceProvider serviceProvider, UserManager<IdentityUser> userManager, RoleManager<IdentityRole> roleManager)
         {
-            string[] roleNames = { "Admin", "Manager", "User" };
+            string[] roleNames = { "Admin", "Manager", "Staff", "User" }; // list of role names
             foreach (var roleName in roleNames)
             {
                 var roleExist = await roleManager.RoleExistsAsync(roleName);
@@ -62,7 +62,7 @@ namespace mockexam.Data
                     await roleManager.CreateAsync(role);
                 }
             }
-            var adminUser = await userManager.FindByEmailAsync("admin@example.com");
+            var adminUser = await userManager.FindByEmailAsync("admin@example.com"); // admin credentials
             if (adminUser == null)
             {
                 adminUser = new IdentityUser { UserName = "admin@example.com", Email = "admin@example.com", EmailConfirmed = true };
@@ -72,6 +72,39 @@ namespace mockexam.Data
             {
                 await userManager.CreateAsync(adminUser, "Admin");
             }
+
+            var managerpositionUser = await userManager.FindByEmailAsync("manager@example.com"); // manager credentials
+            if (managerpositionUser == null)
+            {
+                managerpositionUser = new IdentityUser { UserName = "manager@example.com", Email = "manager@example.com", EmailConfirmed = true };
+                await userManager.CreateAsync(managerpositionUser, "Manager123!");
+            }
+            if (!await userManager.IsInRoleAsync(managerpositionUser, "Manager"))
+            {
+                await userManager.CreateAsync(managerpositionUser, "Manager");
+            }
+
+            var staffUser = await userManager.FindByEmailAsync("staff@example.com"); // staff credentials
+            if (staffUser == null)
+            {
+                staffUser = new IdentityUser { UserName = "staff@example.com", Email = "staff@example.com", EmailConfirmed = true };
+                await userManager.CreateAsync(staffUser, "Staff123!");
+            }
+            if (!await userManager.IsInRoleAsync(staffUser, "Staff"))
+            {
+                await userManager.CreateAsync(staffUser, "Staff");
+            }
+
+            var standardUser1 = await userManager.FindByEmailAsync("user1@example.com");
+            if (standardUser1 == null)
+            {
+                standardUser1 = new IdentityUser { UserName = "user1@example.com", Email = "user1@example.com", EmailConfirmed = true };
+                await userManager.CreateAsync(standardUser1, "User1123!");
+            }
+            if (!await userManager.IsInRoleAsync(standardUser1, "User"))
+            {
+                await userManager.CreateAsync(standardUser1, "User");
+            }
         }
-    } 
+    }
 }

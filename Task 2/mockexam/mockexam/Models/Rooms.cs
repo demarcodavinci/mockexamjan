@@ -9,6 +9,6 @@
         public double HourlyRate { get; set; }
         public string City { get; set; }
         public bool isAvailable { get; set; }
-
+        public ICollection<Bookings>? Bookings { get; set; }
     }
 }

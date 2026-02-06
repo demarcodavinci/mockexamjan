@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "H:\\GitHub\\mockexamjan\\Task 2\\mockexam\\mockexam\\mockexam\\wwwroot\\js\\accessibility.js",
+      "PackagePath": "staticwebassets\\js\\accessibility.js"
+    },
+    {
       "Id": "H:\\GitHub\\mockexamjan\\Task 2\\mockexam\\mockexam\\mockexam\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

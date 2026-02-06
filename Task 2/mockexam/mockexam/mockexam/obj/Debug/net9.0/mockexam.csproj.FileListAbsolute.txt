@@ -1652,7 +1652,6 @@ H:\GitHub\mockexamjan\Task 2\mockexam\mockexam\mockexam\obj\Debug\net9.0\compres
 H:\GitHub\mockexamjan\Task 2\mockexam\mockexam\mockexam\obj\Debug\net9.0\compressed\nezrqnk58p-muycvpuwrr.gz
 H:\GitHub\mockexamjan\Task 2\mockexam\mockexam\mockexam\obj\Debug\net9.0\compressed\v0zgfp0y55-87fc7y1x7t.gz
 H:\GitHub\mockexamjan\Task 2\mockexam\mockexam\mockexam\obj\Debug\net9.0\compressed\yfc7ypekbg-mlv21k5csn.gz
-H:\GitHub\mockexamjan\Task 2\mockexam\mockexam\mockexam\obj\Debug\net9.0\compressed\66gnit0sna-b9sayid5wm.gz
 H:\GitHub\mockexamjan\Task 2\mockexam\mockexam\mockexam\obj\Debug\net9.0\compressed\lzysdwu0ey-61n19gt1b8.gz
 H:\GitHub\mockexamjan\Task 2\mockexam\mockexam\mockexam\obj\Debug\net9.0\compressed\4p3fkxdrcj-xtxxf3hu2r.gz
 H:\GitHub\mockexamjan\Task 2\mockexam\mockexam\mockexam\obj\Debug\net9.0\compressed\booa5tep25-bqjiyaj88i.gz
@@ -1732,3 +1731,5 @@ H:\GitHub\mockexamjan\Task 2\mockexam\mockexam\mockexam\obj\Debug\net9.0\refint\
 H:\GitHub\mockexamjan\Task 2\mockexam\mockexam\mockexam\obj\Debug\net9.0\mockexam.pdb
 H:\GitHub\mockexamjan\Task 2\mockexam\mockexam\mockexam\obj\Debug\net9.0\mockexam.genruntimeconfig.cache
 H:\GitHub\mockexamjan\Task 2\mockexam\mockexam\mockexam\obj\Debug\net9.0\ref\mockexam.dll
+H:\GitHub\mockexamjan\Task 2\mockexam\mockexam\mockexam\obj\Debug\net9.0\compressed\66gnit0sna-u2ihogi865.gz
+H:\GitHub\mockexamjan\Task 2\mockexam\mockexam\mockexam\obj\Debug\net9.0\compressed\0avp4ay7ph-ylifbz9t14.gz

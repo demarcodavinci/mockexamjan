@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Nnn0CkaShgHJEiOaU1UsqNqDKU4skQjn0J6gbkUywAA=",
+  "Hash": "HMeklBtOPZS5L/2R/sWrOY0no+bmIHqqf1cRQqA5sSo=",
   "Source": "mockexam",
   "BasePath": "_content/mockexam",
   "Mode": "Default",
@@ -1340,6 +1340,27 @@
       "OriginalItemSpec": "C:\\Users\\720114\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\9.0.12\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
+      "Identity": "H:\\GitHub\\mockexamjan\\Task 2\\mockexam\\mockexam\\mockexam\\obj\\Debug\\net9.0\\compressed\\0avp4ay7ph-ylifbz9t14.gz",
+      "SourceId": "mockexam",
+      "SourceType": "Discovered",
+      "ContentRoot": "H:\\GitHub\\mockexamjan\\Task 2\\mockexam\\mockexam\\mockexam\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/mockexam",
+      "RelativePath": "js/accessibility#[.{fingerprint=ylifbz9t14}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "H:\\GitHub\\mockexamjan\\Task 2\\mockexam\\mockexam\\mockexam\\wwwroot\\js\\accessibility.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "bju89c25ta",
+      "Integrity": "afo4uBm5kD6Jy+8uZtdIdI1E1cXgcwETtkit4g8TJ6Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "H:\\GitHub\\mockexamjan\\Task 2\\mockexam\\mockexam\\mockexam\\wwwroot\\js\\accessibility.js"
+    },
+    {
       "Identity": "H:\\GitHub\\mockexamjan\\Task 2\\mockexam\\mockexam\\mockexam\\obj\\Debug\\net9.0\\compressed\\0k1i85ntyh-6cfz1n2cew.gz",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
@@ -1718,12 +1739,12 @@
       "OriginalItemSpec": "H:\\GitHub\\mockexamjan\\Task 2\\mockexam\\mockexam\\mockexam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "H:\\GitHub\\mockexamjan\\Task 2\\mockexam\\mockexam\\mockexam\\obj\\Debug\\net9.0\\compressed\\66gnit0sna-b9sayid5wm.gz",
+      "Identity": "H:\\GitHub\\mockexamjan\\Task 2\\mockexam\\mockexam\\mockexam\\obj\\Debug\\net9.0\\compressed\\66gnit0sna-u2ihogi865.gz",
       "SourceId": "mockexam",
       "SourceType": "Discovered",
       "ContentRoot": "H:\\GitHub\\mockexamjan\\Task 2\\mockexam\\mockexam\\mockexam\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/mockexam",
-      "RelativePath": "css/site#[.{fingerprint=b9sayid5wm}]?.css.gz",
+      "RelativePath": "css/site#[.{fingerprint=u2ihogi865}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -1732,8 +1753,8 @@
       "RelatedAsset": "H:\\GitHub\\mockexamjan\\Task 2\\mockexam\\mockexam\\mockexam\\wwwroot\\css\\site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "wf4wcyqcqt",
-      "Integrity": "fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I=",
+      "Fingerprint": "1mmf3rtjq0",
+      "Integrity": "Od8kqeOz6Pw/S+5u8i3v+OzsYmyai4S7HEjGbUFBtLs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "H:\\GitHub\\mockexamjan\\Task 2\\mockexam\\mockexam\\mockexam\\wwwroot\\css\\site.css"
@@ -4042,8 +4063,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "b9sayid5wm",
-      "Integrity": "j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=",
+      "Fingerprint": "u2ihogi865",
+      "Integrity": "OhJHNf9SkcWXukTi0p3I0kqyQE6vNfMw+QDG8ydkr8w=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -4068,6 +4089,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "H:\\GitHub\\mockexamjan\\Task 2\\mockexam\\mockexam\\mockexam\\wwwroot\\js\\accessibility.js",
+      "SourceId": "mockexam",
+      "SourceType": "Discovered",
+      "ContentRoot": "H:\\GitHub\\mockexamjan\\Task 2\\mockexam\\mockexam\\mockexam\\wwwroot\\",
+      "BasePath": "_content/mockexam",
+      "RelativePath": "js/accessibility#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ylifbz9t14",
+      "Integrity": "9jJ/07umYv9KMVcOCsN19wHzjM6GD/kXTPUq2FVzUW0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\accessibility.js"
     },
     {
       "Identity": "H:\\GitHub\\mockexamjan\\Task 2\\mockexam\\mockexam\\mockexam\\wwwroot\\js\\site.js",
@@ -5353,13 +5395,13 @@
   ],
   "Endpoints": [
     {
-      "Route": "css/site.b9sayid5wm.css",
-      "AssetFile": "H:\\GitHub\\mockexamjan\\Task 2\\mockexam\\mockexam\\mockexam\\obj\\Debug\\net9.0\\compressed\\66gnit0sna-b9sayid5wm.gz",
+      "Route": "css/site.css",
+      "AssetFile": "H:\\GitHub\\mockexamjan\\Task 2\\mockexam\\mockexam\\mockexam\\obj\\Debug\\net9.0\\compressed\\66gnit0sna-u2ihogi865.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.003125000000"
+          "Quality": "0.002217294900"
         }
       ],
       "ResponseHeaders": [
@@ -5369,19 +5411,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "319"
+          "Value": "450"
         },
         {
           "Name": "ETag",
-          "Value": "\"fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I=\""
+          "Value": "\"Od8kqeOz6Pw/S+5u8i3v+OzsYmyai4S7HEjGbUFBtLs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Feb 2026 09:01:38 GMT"
+          "Value": "Fri, 06 Feb 2026 10:47:13 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -5397,26 +5439,18 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
+          "Value": "W/\"OhJHNf9SkcWXukTi0p3I0kqyQE6vNfMw+QDG8ydkr8w=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "b9sayid5wm"
-        },
-        {
-          "Name": "label",
-          "Value": "css/site.css"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
+          "Value": "sha256-OhJHNf9SkcWXukTi0p3I0kqyQE6vNfMw+QDG8ydkr8w="
         }
       ]
     },
     {
-      "Route": "css/site.b9sayid5wm.css",
+      "Route": "css/site.css",
       "AssetFile": "H:\\GitHub\\mockexamjan\\Task 2\\mockexam\\mockexam\\mockexam\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -5426,7 +5460,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "667"
+          "Value": "1066"
         },
         {
           "Name": "Content-Type",
@@ -5434,11 +5468,156 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
+          "Value": "\"OhJHNf9SkcWXukTi0p3I0kqyQE6vNfMw+QDG8ydkr8w=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Feb 2026 09:01:38 GMT"
+          "Value": "Fri, 06 Feb 2026 10:47:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OhJHNf9SkcWXukTi0p3I0kqyQE6vNfMw+QDG8ydkr8w="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css.gz",
+      "AssetFile": "H:\\GitHub\\mockexamjan\\Task 2\\mockexam\\mockexam\\mockexam\\obj\\Debug\\net9.0\\compressed\\66gnit0sna-u2ihogi865.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "450"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Od8kqeOz6Pw/S+5u8i3v+OzsYmyai4S7HEjGbUFBtLs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 06 Feb 2026 10:47:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Od8kqeOz6Pw/S+5u8i3v+OzsYmyai4S7HEjGbUFBtLs="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.u2ihogi865.css",
+      "AssetFile": "H:\\GitHub\\mockexamjan\\Task 2\\mockexam\\mockexam\\mockexam\\obj\\Debug\\net9.0\\compressed\\66gnit0sna-u2ihogi865.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002217294900"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "450"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Od8kqeOz6Pw/S+5u8i3v+OzsYmyai4S7HEjGbUFBtLs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 06 Feb 2026 10:47:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"OhJHNf9SkcWXukTi0p3I0kqyQE6vNfMw+QDG8ydkr8w=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "u2ihogi865"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OhJHNf9SkcWXukTi0p3I0kqyQE6vNfMw+QDG8ydkr8w="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.u2ihogi865.css",
+      "AssetFile": "H:\\GitHub\\mockexamjan\\Task 2\\mockexam\\mockexam\\mockexam\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1066"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OhJHNf9SkcWXukTi0p3I0kqyQE6vNfMw+QDG8ydkr8w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 06 Feb 2026 10:47:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5448,7 +5627,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "b9sayid5wm"
+          "Value": "u2ihogi865"
         },
         {
           "Name": "label",
@@ -5456,13 +5635,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
+          "Value": "sha256-OhJHNf9SkcWXukTi0p3I0kqyQE6vNfMw+QDG8ydkr8w="
         }
       ]
     },
     {
-      "Route": "css/site.b9sayid5wm.css.gz",
-      "AssetFile": "H:\\GitHub\\mockexamjan\\Task 2\\mockexam\\mockexam\\mockexam\\obj\\Debug\\net9.0\\compressed\\66gnit0sna-b9sayid5wm.gz",
+      "Route": "css/site.u2ihogi865.css.gz",
+      "AssetFile": "H:\\GitHub\\mockexamjan\\Task 2\\mockexam\\mockexam\\mockexam\\obj\\Debug\\net9.0\\compressed\\66gnit0sna-u2ihogi865.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5471,7 +5650,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "319"
+          "Value": "450"
         },
         {
           "Name": "Content-Type",
@@ -5479,11 +5658,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I=\""
+          "Value": "\"Od8kqeOz6Pw/S+5u8i3v+OzsYmyai4S7HEjGbUFBtLs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Feb 2026 09:01:38 GMT"
+          "Value": "Fri, 06 Feb 2026 10:47:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5501,7 +5680,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "b9sayid5wm"
+          "Value": "u2ihogi865"
         },
         {
           "Name": "label",
@@ -5509,144 +5688,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.css",
-      "AssetFile": "H:\\GitHub\\mockexamjan\\Task 2\\mockexam\\mockexam\\mockexam\\obj\\Debug\\net9.0\\compressed\\66gnit0sna-b9sayid5wm.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.003125000000"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "319"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 06 Feb 2026 09:01:38 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.css",
-      "AssetFile": "H:\\GitHub\\mockexamjan\\Task 2\\mockexam\\mockexam\\mockexam\\wwwroot\\css\\site.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "667"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 06 Feb 2026 09:01:38 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.css.gz",
-      "AssetFile": "H:\\GitHub\\mockexamjan\\Task 2\\mockexam\\mockexam\\mockexam\\obj\\Debug\\net9.0\\compressed\\66gnit0sna-b9sayid5wm.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "319"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 06 Feb 2026 09:01:38 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I="
+          "Value": "sha256-Od8kqeOz6Pw/S+5u8i3v+OzsYmyai4S7HEjGbUFBtLs="
         }
       ]
     },
@@ -14476,6 +14518,304 @@
         {
           "Name": "integrity",
           "Value": "sha256-1HkjQSVuV0/ji/X/lGeDTHeagBS0BwopMrHDQuwqgtU="
+        }
+      ]
+    },
+    {
+      "Route": "js/accessibility.js",
+      "AssetFile": "H:\\GitHub\\mockexamjan\\Task 2\\mockexam\\mockexam\\mockexam\\obj\\Debug\\net9.0\\compressed\\0avp4ay7ph-ylifbz9t14.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001788908766"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "558"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"afo4uBm5kD6Jy+8uZtdIdI1E1cXgcwETtkit4g8TJ6Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 06 Feb 2026 10:42:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"9jJ/07umYv9KMVcOCsN19wHzjM6GD/kXTPUq2FVzUW0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9jJ/07umYv9KMVcOCsN19wHzjM6GD/kXTPUq2FVzUW0="
+        }
+      ]
+    },
+    {
+      "Route": "js/accessibility.js",
+      "AssetFile": "H:\\GitHub\\mockexamjan\\Task 2\\mockexam\\mockexam\\mockexam\\wwwroot\\js\\accessibility.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1585"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9jJ/07umYv9KMVcOCsN19wHzjM6GD/kXTPUq2FVzUW0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 06 Feb 2026 10:42:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9jJ/07umYv9KMVcOCsN19wHzjM6GD/kXTPUq2FVzUW0="
+        }
+      ]
+    },
+    {
+      "Route": "js/accessibility.js.gz",
+      "AssetFile": "H:\\GitHub\\mockexamjan\\Task 2\\mockexam\\mockexam\\mockexam\\obj\\Debug\\net9.0\\compressed\\0avp4ay7ph-ylifbz9t14.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "558"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"afo4uBm5kD6Jy+8uZtdIdI1E1cXgcwETtkit4g8TJ6Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 06 Feb 2026 10:42:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-afo4uBm5kD6Jy+8uZtdIdI1E1cXgcwETtkit4g8TJ6Q="
+        }
+      ]
+    },
+    {
+      "Route": "js/accessibility.ylifbz9t14.js",
+      "AssetFile": "H:\\GitHub\\mockexamjan\\Task 2\\mockexam\\mockexam\\mockexam\\obj\\Debug\\net9.0\\compressed\\0avp4ay7ph-ylifbz9t14.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001788908766"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "558"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"afo4uBm5kD6Jy+8uZtdIdI1E1cXgcwETtkit4g8TJ6Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 06 Feb 2026 10:42:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"9jJ/07umYv9KMVcOCsN19wHzjM6GD/kXTPUq2FVzUW0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ylifbz9t14"
+        },
+        {
+          "Name": "label",
+          "Value": "js/accessibility.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9jJ/07umYv9KMVcOCsN19wHzjM6GD/kXTPUq2FVzUW0="
+        }
+      ]
+    },
+    {
+      "Route": "js/accessibility.ylifbz9t14.js",
+      "AssetFile": "H:\\GitHub\\mockexamjan\\Task 2\\mockexam\\mockexam\\mockexam\\wwwroot\\js\\accessibility.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1585"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9jJ/07umYv9KMVcOCsN19wHzjM6GD/kXTPUq2FVzUW0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 06 Feb 2026 10:42:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ylifbz9t14"
+        },
+        {
+          "Name": "label",
+          "Value": "js/accessibility.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9jJ/07umYv9KMVcOCsN19wHzjM6GD/kXTPUq2FVzUW0="
+        }
+      ]
+    },
+    {
+      "Route": "js/accessibility.ylifbz9t14.js.gz",
+      "AssetFile": "H:\\GitHub\\mockexamjan\\Task 2\\mockexam\\mockexam\\mockexam\\obj\\Debug\\net9.0\\compressed\\0avp4ay7ph-ylifbz9t14.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "558"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"afo4uBm5kD6Jy+8uZtdIdI1E1cXgcwETtkit4g8TJ6Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 06 Feb 2026 10:42:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ylifbz9t14"
+        },
+        {
+          "Name": "label",
+          "Value": "js/accessibility.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-afo4uBm5kD6Jy+8uZtdIdI1E1cXgcwETtkit4g8TJ6Q="
         }
       ]
     },

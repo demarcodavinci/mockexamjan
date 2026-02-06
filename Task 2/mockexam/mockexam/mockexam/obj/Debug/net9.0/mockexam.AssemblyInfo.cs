@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("mockexam")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc3384eef192bf7fec82edd21f6e01f00663074b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6fc529d6603d383ffe1f3202a58e693c0b2524b5")]
 [assembly: System.Reflection.AssemblyProductAttribute("mockexam")]
 [assembly: System.Reflection.AssemblyTitleAttribute("mockexam")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

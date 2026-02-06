@@ -29,3 +29,22 @@ body {
 .form-floating > .form-control-plaintext:focus::placeholder, .form-floating > .form-control:focus::placeholder {
   text-align: start;
 }
+/*Dark Models*/
+:root{
+    --background-color: white;
+    --text-color: black;
+}
+.dark-mode {
+    --background-color: #121212;
+    --text-color: white;
+}
+body{
+    background-color: var(--background-color);
+    color: var(--text-color);
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.high-contrast {
+    background-color: black !important;
+    color: yellow !important;
+}

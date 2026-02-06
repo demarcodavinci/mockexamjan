@@ -32,6 +32,17 @@
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Bookings" asp-action="Index">My Bookings</a>
                         </li>
+                        <li class="nav-item">
+                            <div id="accessiblity-menu">
+                                <div id="accessibility-options">
+                                    <button onclick="toggleDarkMode()">Toggle Dark Mode</button>
+                                    <button onclick="changeFontSize('increase)">Increase Font Size</button>
+                                    <button onclick="changeFontSize('decrease')">Decrease Font Size</button>
+                                    <button onclick="toggleHighContrast()">High Contrast Mode</button>
+                                    <button onclick="speakText()">Read Aloud</button>
+                                </div>
+                            </div>
+                        </li>
                     </ul>
                     <partial name="_LoginPartial" />
                 </div>
@@ -52,6 +63,7 @@
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
+    <script src="~/js/accessibility.js"></script>
     @await RenderSectionAsync("Scripts", required: false)
 </body>
 </html>

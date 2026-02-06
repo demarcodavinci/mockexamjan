@@ -10,6 +10,8 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using mockexam.Data;
 using mockexam.Models;
+using System.Security.Claims;
+using Microsoft.Build.Tasks;
 
 namespace mockexam.Controllers
 {
@@ -25,8 +27,9 @@ namespace mockexam.Controllers
         // GET: Bookings
         public async Task<IActionResult> Index()
         {
-            var applicationDbContext = _context.Bookings.Include(b => b.User);
-            return View(await applicationDbContext.ToListAsync());
+            var userId = User.FindFirstValue(ClaimTypes.NameIdentifier);
+            var userBookings = await _context.Bookings.ToListAsync(); // Does this show data?
+            return View(userBookings);
         }
 
         // GET: Bookings/Details/5
@@ -62,9 +65,11 @@ namespace mockexam.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create([Bind("BookingsId,UserId,CheckInDate,CheckOutDate,NumberOfGuests,Status,BookingCreatedAt,SpecialRequest,IsPayed,PayedAt")] Bookings bookings)
         {
-           
+            
+
             if (ModelState.IsValid)
             {
+                
                 _context.Add(bookings);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));

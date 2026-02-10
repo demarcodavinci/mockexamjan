@@ -27,3 +27,6 @@ This is the account for the Manager to access.
 
 Email: admin@example.com
 Password: Admin123!
+This is the highest elevation permission for the user accounts.
+
+ Please use these demo accounts when using the website.

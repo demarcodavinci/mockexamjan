@@ -12,3 +12,18 @@ Then, press the green 'Play' button to start the website. -->
 <img width="63" height="35" alt="{7B9CEC94-1B09-4981-AEDF-EBBF149C6E77}" src="https://github.com/user-attachments/assets/ce7d348e-0a39-432e-8082-f6cbd6c12f14" />
 
 You are now running the application, if any errors have occured please use online resources to help you.
+User Credentials are as follows:
+Email: user1@example.com
+Password: User1123!
+This is your standalone regular user with no elevated permissions.
+
+Email: staff@example.com
+Password: Staff123!
+This is the account for staff to access.
+
+Email: manager@example.com
+Password:Manager123!
+This is the account for the Manager to access.
+
+Email: admin@example.com
+Password: Admin123!
